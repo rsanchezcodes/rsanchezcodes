@@ -18,7 +18,7 @@ $ git profile --interactive
 ? Programming languages?       › Java, Python, JavaScript, C++, C, RISC-V assembly
 ? Skills?                      › Algorithms · Data structures · OOP · Unit testing (JUnit 5, Mockito)
 ? Tools?                       › Git · GitHub · IntelliJ IDEA · VS Code · Eclipse
-? Languages?                   > Spanish · English
+? Languages?                   › Spanish · English
 
 ✔ Profile created.
 
